@@ -9,8 +9,8 @@ int sensor_val = 0; #sensor input
 
 void setup() {
   pinMode(sensor_pin, INPUT);
-  m1.setSpeed(250);
-  m2.setSpeed(250);
+  m1.setSpeed(150);
+  m2.setSpeed(150);
 }
 
 void loop() {
