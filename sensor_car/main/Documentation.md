@@ -3,7 +3,7 @@
 ## Introduction:
 This is an Edge Avoidance Arduino Vehicle made using Arduino Uno, a motor driver and an infrared sensor.
 The Arduino is powered by a 9 Volt battery and the motors are powered by a power bank.
-It avoids the vehicle to fall off the table.
+The main function of the vehicle is to prevent itself from falling off the table.
 
 
 ## Architecture:
